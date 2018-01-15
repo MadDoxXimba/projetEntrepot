@@ -2,7 +2,7 @@
 
 @author: Jonathan YUE CHUN
 
-@author: Quentin LEVAVASSEUR (commit test)
+@author: Quentin LEVAVASSEUR
 
 @author: Valentin BOUCHEVREAU
 
