@@ -1,4 +1,4 @@
-﻿# Mini-Projet entrepôt et fouille de données
+# Mini-Projet entrepôt et fouille de données
 
 @author: Jonathan YUE CHUN
 
