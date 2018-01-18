@@ -18,6 +18,6 @@
   - Faire analyse statistiques de base sur les P1..P30 (les Pi sont des familles de produits pour chaque clients):
     - On peut faire une comparaison à partir des Pi...
   - Faire des analyses de classification surpervisé/non supervisé;
-  - Faire un algorithme;
+  - Faire du scoring (ROC/LIFT);
   - Faire évaluation d'algorithmes sur les algorithmes d'apprentissages (vu en analyse prédictif) seulement;
   
