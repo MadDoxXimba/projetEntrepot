@@ -18,6 +18,7 @@
   - Faire analyse statistiques de base sur les P1..P30 (les Pi sont des familles de produits pour chaque clients):
     - On peut faire une comparaison à partir des Pi... [DONE!]
   - Faire des analyses de classification surpervisé/non supervisé
+    - ACP (ABANDON: Pas de classe à prédire) -> tuto: https://plot.ly/ipython-notebooks/principal-component-analysis/
     - K-Means (EN COURS...)
     - CAH (TO-DO)
   - Appliquer Algorithme de classification prédictif (ex: ID3...)
