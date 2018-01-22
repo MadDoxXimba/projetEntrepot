@@ -19,7 +19,7 @@
     - On peut faire une comparaison à partir des Pi... [DONE!]
   - Faire des analyses de classification surpervisé/non supervisé
     - ACP (ABANDON: Pas de classe à prédire) -> tuto: https://plot.ly/ipython-notebooks/principal-component-analysis/
-    - K-Means (EN COURS...)
+    - K-Means (DONE, à valider...)
     - CAH (TO-DO)
   - Appliquer Algorithme de classification prédictif (ex: ID3...)
   - Faire évaluation d'algorithmes sur les algorithmes d'apprentissages (vu en analyse prédictif) seulement;
