@@ -18,10 +18,10 @@
   - Faire analyse statistiques de base sur les P1..P30 (les Pi sont des familles de produits pour chaque clients):
     - On peut faire une comparaison à partir des Pi... [DONE!]
   - Faire des analyses de classification surpervisé/non supervisé
-    - ACP (DONE) 
+    - ACP (Normaliser centrer-reduit) -> En cours: Jonathan 
          - tuto: https://plot.ly/ipython-notebooks/principal-component-analysis/
 		 - tuto: https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-tutor3-python-scikit.pdf
-    - K-Means (Normaliser centrer-reduit...)
+    - K-Means (Normaliser centrer-reduit...) - > En cours: Jonathan
     - CAH (TO-DO)
   - Appliquer Algorithme de classification prédictif (ex: ID3...) -> En cours: Valentin
   - Faire évaluation d'algorithmes sur les algorithmes d'apprentissages (vu en analyse prédictif) seulement -> En cours: Valentin;
